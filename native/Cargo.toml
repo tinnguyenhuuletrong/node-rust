@@ -1,0 +1,8 @@
+[package]
+name = "main"  
+version = "1.0.0"  
+authors = [ "Gergely Nemeth <gergely@example.io>" ]  
+
+[lib]
+name = "fibonacci"  
+crate-type = ["dylib"]  

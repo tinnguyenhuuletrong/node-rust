@@ -1,0 +1,14 @@
+{
+  "name": "node-rust",
+  "version": "1.0.0",
+  "description": "Example following https://blog.risingstack.com/how-to-use-rust-with-node-when-performance-matters/",
+  "main": "node-index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffi": "^2.0.0"
+  }
+}
